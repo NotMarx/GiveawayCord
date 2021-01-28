@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://inplex-giveawaybot.glitch.me">Our Website</a></td>
+<td style="text-align:center"><a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://giveawaycord.glitch.me">Our Website</a></td>
 <td style="text-align:center"><a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/78RyqJK">discord.gg/78RyqJK</a></td>
 <td style="text-align:center"><a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.com/api/oauth2/authorize?client_id=762192613989941270&amp;permissions=1073997936&amp;scope=bot">Invite GiveawayCord</a></td>
 </tr>
